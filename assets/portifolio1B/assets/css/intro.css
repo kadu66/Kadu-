@@ -14,9 +14,10 @@
     font-size: 2.5rem;
     margin-bottom: 3rem;
 }
+
 .intro .subtitle{
     font-size: 1.8rem;
-    line-height: 3rem;
+    line-height: 3rem; /*altura de linha*/
 }
 
 @media (width > 600px) {
